@@ -1,0 +1,11 @@
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-F_Cu.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-B_Cu.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-F_Paste.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-B_Paste.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-F_Silkscreen.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-B_Silkscreen.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-F_Mask.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-B_Mask.gbr'.
+Plotted to 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\repo\Bewegungsmelder\bewegungsmelder\production\bewegungsmelder-job.gbrjob'.
+Info: Done.
